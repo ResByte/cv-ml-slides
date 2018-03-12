@@ -15,3 +15,10 @@ The most famous deep learning coursework. There are videos available on youtube 
 ### 2016
 #### [STAT212B :  Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/)
 Consists of topic wise reading list and an extensive coursework for advanced learning. 
+
+
+## Presentations
+
+### 2017
+#### [NIPS17: Machine Learning for Systems](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf)
+An interesting talk by Jeff Dean at NIPS17. 
