@@ -10,7 +10,11 @@ A good deep learning coursework that takes into depth of understanding several k
 
 ### 2017
 #### [CS231n: CNN for Visual Recognition](http://cs231n.stanford.edu/slides/2017/)
-The most famous deep learning coursework. There are videos available on youtube also. 
+The most famous deep learning coursework. There are videos available on youtube also.
+
+#### [STATS385: Theories of Deep Learning](https://stats385.github.io/readings)
+Going more deeper into deep learning, this course provides a better approach to understand theories behind. 
+
 
 ### 2016
 #### [STAT212B :  Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/)
