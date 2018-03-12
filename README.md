@@ -25,10 +25,16 @@ A course from Berkeley University for not so common topics in deep learning at a
 Consists of topic wise reading list and an extensive coursework for advanced learning. 
 
 ---
-## Presentations
+## Conferences and Bootcamps
 
 ### 2017
 #### [NIPS17: Machine Learning for Systems](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf)
 An interesting talk by Jeff Dean at NIPS17. 
 
+#### [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+Deep Reinforcement Learning bootcamp with lecture videos. A good place to start and expand knowledge on RL with deep learning. 
+
 ---
+
+
+
