@@ -24,6 +24,9 @@ A course from Berkeley University for not so common topics in deep learning at a
 #### [STAT212B :  Topics Course on Deep Learning](http://joanbruna.github.io/stat212b/)
 Consists of topic wise reading list and an extensive coursework for advanced learning. 
 
+#### [CSC 2541: Differentiable Inference and Generative Models](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/).
+This is an advance course requiring basic understanding of deep learning and machine learning. Not recommended for newbies. The course follows interesting topics including GANs and provides overview for several techniques. 
+
 ---
 ## Conferences and Bootcamps
 
