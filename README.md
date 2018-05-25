@@ -5,7 +5,7 @@ Computer Vision and Machine Learning useful slides from coursework, workshops or
 ## Coursework
 
 ### 2018
-#### [cs 7476 : Advanced Computer Vision](https://www.cc.gatech.edu/~hays/7476/)
+#### [CS 7476 : Advanced Computer Vision](https://www.cc.gatech.edu/~hays/7476/)
 Research paper reading list based coursework, good place to start with relevant papers on each sub-topic. 
 
 #### [EE-559 : Deep Learning](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
