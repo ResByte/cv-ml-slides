@@ -5,7 +5,17 @@ Computer Vision and Machine Learning useful slides from coursework, workshops or
 ## Coursework
 
 ### 2018
+
+####[UvA Deep Learning Course](http://uvadlc.github.io/)
+
+A good course similar to stanford cs231n
+
+#### [Maths for Deep Learning ](https://joanbruna.github.io/MathsDL-spring18/)
+
+More emphasis on theory of deep learning with several interesting topics. This is offered at NYU Cilvr Lab.
+
 #### [CS 7476 : Advanced Computer Vision](https://www.cc.gatech.edu/~hays/7476/)
+
 Research paper reading list based coursework, good place to start with relevant papers on each sub-topic. 
 
 #### [EE-559 : Deep Learning](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
