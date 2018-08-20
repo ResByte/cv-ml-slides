@@ -6,7 +6,7 @@ Computer Vision and Machine Learning useful slides from coursework, workshops or
 
 ### 2018
 
-####[UvA Deep Learning Course](http://uvadlc.github.io/)
+#### [UvA Deep Learning Course](http://uvadlc.github.io/)
 
 A good course similar to stanford cs231n
 
